@@ -1,0 +1,13 @@
+﻿<Configuration>
+
+  <DATABASE>
+    <D_ADDR01>127.0.0.1</D_ADDR01>
+    <D_ADDR02>127.0.0.1</D_ADDR02>
+    <PORT>1521</PORT>
+    <USER>WIN</USER>
+    <PWD>dnlsvh</PWD>
+    <SERVICE_NAME>ORCL</SERVICE_NAME>
+  </DATABASE>
+
+</Configuration>
+
